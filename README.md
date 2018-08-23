@@ -40,16 +40,16 @@ The data for multi-label classification is given in four columns, with the first
 
 10% of the dataset was randomly selected and held-out for the test set. From the remaining training data, 10% was randomly selected and set aside for the development set. 
 
-| Commenting | Ogling | Groping | % of Dataset | 
+| Commenting | Ogling | Groping | Examples in Dataset | 
 |---|---|---|---|
-| 1 | 1 | 1 |  | 1
-| 1 | 1 | 0 |  | 2
-| 1 | 0 | 1 |  | 3
-| 0 | 1 | 1 |  | 4
-| 1 | 0 | 0 |  | 5
-| 0 | 0 | 1 |  | 6
-| 0 | 1 | 0 |  | 7
-| 0 | 0 | 0 |  | 8
+| 1 | 1 | 1 | 351 | 
+| 1 | 1 | 0 | 819 | 
+| 1 | 0 | 1 | 459 | 
+| 0 | 1 | 1 | 201 | 
+| 1 | 0 | 0 | 2256 | 
+| 0 | 0 | 1 | 1966 | 
+| 0 | 1 | 0 | 743 | 
+| 0 | 0 | 0 | 3097 | 
 
 There are 7201 training samples, 990 development samples, and 1701 test samples.   
   
