@@ -1,6 +1,8 @@
-# safecity data
+# SafeCity Data
 *SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories*, EMNLP 2018  
 Authors: Sweta Karlekar & Mohit Bansal, University of North Carolina at Chapel Hill 
+
+***This data is for research purposes only and is publicly available at <http://maps.safecity.in/reports>. Please contact SafeCity moderators at <http://maps.safecity.in/contact> for permission before the use of this data.***
 
 See above for datasets with train, dev, and test splits used for binary and multi-label classification. 
 
