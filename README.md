@@ -1,8 +1,6 @@
 # SafeCity Data
-*SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories*, EMNLP 2018  
-Authors: Sweta Karlekar & Mohit Bansal, University of North Carolina at Chapel Hill 
-
-This repository contains data for [SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories](http://arxiv.org/abs/1809.04739), presented at EMNLP 2018. 
+*[SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories](http://arxiv.org/abs/1809.04739)*, EMNLP 2018  
+Authors: Sweta Karlekar & Mohit Bansal, University of North Carolina at Chapel Hill  
 
 ***This data is for research purposes only and is publicly available at <http://maps.safecity.in/reports>. Please contact SafeCity moderators at <http://maps.safecity.in/contact> for permission before the use of this data. We thank the SafeCity moderators for their assistance with the data download.***
 
@@ -56,6 +54,18 @@ The data for multi-label classification is given in four columns, with the first
 | 0 | 0 | 0 | 3097 | 
 
 There are 7201 training samples, 990 development samples, and 1701 test samples.   
-  
+
+## Citation
+If you find this dataset and code helpful, please consider citing [our paper](http://arxiv.org/abs/1809.04739).
+
+```
+@inproceedings{karlekar2018safecity,
+	author = {Karlekar, Sweta and Bansal, Mohit},
+	title = {SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories},
+	booktitle = {EMNLP},
+	year = {2018},
+}
+```
+
 ## Questions?
 Contact the authors of the paper at <swetakar@cs.unc.edu> and <mbansal@cs.unc.edu>. 
